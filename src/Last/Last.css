@@ -1,0 +1,32 @@
+.phone{
+    width: 450px;
+    margin-left: 550px;
+}
+.phone1{
+    width: 450px;
+    margin-left: 950px;
+    margin-top: -500px;
+}
+.h1p{
+    margin-top: -400px;
+    margin-left: 100px;
+
+}
+.last{
+    display: flex;
+    margin-top: -2px;
+}
+.pd1 img{
+    margin-left: 100px;
+    width: 150px;
+    height: 50px;
+}
+.pd2 img{
+    
+    width: 150px;
+    height: 50px;
+}
+.h1p p{
+    color: gray;
+}
+

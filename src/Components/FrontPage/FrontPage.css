@@ -1,0 +1,58 @@
+.mb-3{
+    margin-top: 40px;
+}
+.ho{
+    margin-top: 90px;
+}
+.col-md-6 img{
+    width: 900px;
+    height: 600px;
+}
+.light{
+    background-color: white;
+    border-color: white;
+}
+.dark{
+    background-color: black;
+    color: white;
+    margin-top: 60px;
+}
+.ls{
+    margin-top: 110px;
+    margin-left: 450px;
+    margin-top: -15px;
+}
+.swiggy img{
+    width: 170px;
+    height: 70px;
+    margin-top: -40px;
+}
+
+.full-width-row {
+    width: 100%; 
+    background-color: rgb(62, 46, 4);
+  }
+ 
+
+
+.hp{
+    height: 3em;
+  line-height: 1.5em;
+  font-size: 16px;
+  overflow: hidden;
+  color: gray;
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit the text to two lines */
+  -webkit-box-orient: vertical;
+ 
+  }
+  
+#button-addon2{
+    background-color: #fc8019;
+    color: white;
+}
+.ho h4{
+    margin-top: -20px;
+}
